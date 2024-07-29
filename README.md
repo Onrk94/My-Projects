@@ -14,7 +14,8 @@ Generate Human-Friendly Summaries: Transform the summarized text into a narrativ
 
 Send Emails: Automatically send the generated summaries to the parents' email addresses, ensuring they are kept informed about their child's progress and activities at the kindergarten.
 
-Technical Details
+Technical Details:
+
 Database Management: We use SQLite to store and manage the activities and related data.
 Natural Language Processing: The project leverages transformers and NLP models from the Hugging Face library to perform text summarization.
 Email Automation: The project integrates email automation to send the weekly summaries to parents.
