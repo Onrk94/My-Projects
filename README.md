@@ -1,6 +1,7 @@
 In this project, we summarize children's activities at school and inform their parents via email.
 
-Project Description
+Project Description:
+
 In this project, we aim to summarize the daily activities of children in a kindergarten and provide weekly summaries to their parents via email. The system is designed to:
 
 Track Activities: Record various activities that children engage in during their time at the kindergarten, such as learning sessions, playtime, reading, and other educational tasks.
