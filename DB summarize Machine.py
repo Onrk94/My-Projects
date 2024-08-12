@@ -89,7 +89,7 @@ def main():
         email_subject = f"Weekly Summary for {student_name} ({week_start} - {week_end})"
         send_email(parent_email, email_subject, summary_text)
 
-    # Veritabanı bağlantısını kapat
+    
     get_db_connection().close()
 
 if __name__ == "__main__":
